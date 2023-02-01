@@ -1,0 +1,64 @@
+body{margin: 0px;
+    background-color: #2C2828;
+    text-align: center;
+    color: #040303;
+    font-family: 'Bebas Neue', cursive;}
+
+#title{font-family: 'Rock Salt', cursive;}
+
+h1{margin-top: 0px; font-family: 'Bebas Neue', cursive; font-size: 3.125rem; }
+
+#under-my-name{font-size: 1.5rem;}
+
+p{font-size: 1.3rem; color: #eeeeee;}
+
+h2{font-family: 'Bebas Neue', cursive; font-size: 2rem;}
+
+h3{font-family: 'Bebas Neue', cursive; font-size: 2rem;}
+
+.top-container{background-color: #7F8487; position: relative; padding-top: 100px; padding-bottom: 70px;}
+
+#contact-info{font-size: 1.3rem;}
+
+.middle-container{margin-top: 100px; margin-bottom: 100px;}
+    
+.bottom-container{ width: 100%; background-color: #7F8487; height: 100px; border-top-width: 0px; padding-top: 50px; margin-top: 0px;}
+
+#cloud2{ position: absolute; right: 250px;bottom: 390px}
+
+#cloud1{position: absolute; left: 220px; bottom: 440px;}
+
+#cloud3{position: absolute; right: 100px; bottom: 460px;}
+
+#graphic-design{height: 300px;}
+
+#programming
+
+#copyright{color: #040303;}
+
+hr{color: #eeeeee; border-top: 15px dotted; border-bottom-width: 0px; border-right-width: 0px; border-left-width: 0px; width: 40%; margin-top: 6.25rem; margin-bottom: 6.25rem;}
+
+a:hover{color: #eeeeee;}
+
+a{text-decoration: none;}
+
+.footer-link{color: #040303;}
+
+.skill-row{width: 50%;margin: auto; }
+
+.skills-text{text-align: left; }
+
+#contact-link{font-size: 1.5rem;}
+
+.navigation-bar{padding-bottom: 30px; background-color: #2C2828;}
+
+button:hover{background-color: #040303; color: #eeeeee;}
+ 
+button{background:    #7f8487;
+    border-radius: 11px;
+    padding:       12px 17px;
+    color:         #eeeeee;
+    display:       inline-block;
+    font:          normal bold 28px/1 "Open Sans", sans-serif;
+    text-align:    center;
+    border: 0; position: relative; top: 20px; margin: 0 150px;  }
